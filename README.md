@@ -394,23 +394,23 @@ If you find this challenge solution useful, please consider citing the EgoCross 
 
 We welcome all forms of contributions\! If you have any questions, ideas, or find a bug, please feel free to:
 
-  - Open an [Issue](https://github.com/Lee-zixu/ConeSep/issues) for discussions or bug reports.
-  - Submit a [Pull Request](https://github.com/Lee-zixu/ConeSep/pulls) to improve the codebase.
+  - Open an [Issue](https://github.com/Lee-zixu/OmniEgo-R2/issues) for discussions or bug reports.
+  - Submit a [Pull Request](https://github.com/Lee-zixu/OmniEgo-R2/pulls) to improve the codebase.
 
 [⬆ Back to top](#top)
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" alt="ConeSep Demo">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" alt="Demo">
 
 <br><br>
 
-  <a href="https://github.com/Lee-zixu/ConeSep">
+  <a href="https://github.com/Lee-zixu/OmniEgo-R2">
     <img src="https://img.shields.io/badge/⭐_Star_US-000000?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Star">
   </a>
-  <a href="https://github.com/Lee-zixu/ConeSep/issues">
+  <a href="https://github.com/Lee-zixu/OmniEgo-R2/issues">
     <img src="https://img.shields.io/badge/🐛_Report_Issues-000000?style=for-the-badge&logo=github&logoColor=FF6B6B" alt="Issues">
   </a>
-  <a href="https://github.com/Lee-zixu/ConeSep/pulls">
+  <a href="https://github.com/Lee-zixu/OmniEgo-R2/pulls">
     <img src="https://img.shields.io/badge/🧐_Pull_Requests-000000?style=for-the-badge&logo=github&logoColor=4ECDC4" alt="Pull Request">
   </a>
 
